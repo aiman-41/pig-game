@@ -16,7 +16,7 @@ Pig Game is a two-player game where players take turns rolling a die to accumula
 * Winner detection
 * New Game option to restart the game
 
-## Technologies Used
+## Programing languages Used
 
 * HTML5
 * CSS3
